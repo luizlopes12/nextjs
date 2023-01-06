@@ -1,0 +1,2 @@
+# nextjs
+Training next + react
