@@ -3,7 +3,6 @@ import { useRouter } from 'next/router'
 
 export default function Comment(){
     const router = useRouter()
-
     const idTodo = router.query.idTodo
     const idComment = router.query.idComment
     return(
